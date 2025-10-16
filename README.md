@@ -113,7 +113,7 @@ pip install -r requirements.txt
 المساهمات مرحب بها! إذا كنت ترغب في المساهمة في تطوير Al-Sayyad، يرجى فتح `issue` أو إرسال `pull request` على مستودع GitHub.
 
 ## المؤلف
-
+صنع بفخر بواسطة
 **Hassan Mohamed Hassan Ahmed**
 
 [GitHub Profile](https://github.com/kush-king249)
